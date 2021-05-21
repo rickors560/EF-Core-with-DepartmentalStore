@@ -1,0 +1,9 @@
+C:\Users\S S INFOTECH\source\repos\DepartmentalStore\DepartmentalStore.Domain\bin\Debug\netcoreapp3.1\DepartmentalStore.Models.deps.json
+C:\Users\S S INFOTECH\source\repos\DepartmentalStore\DepartmentalStore.Domain\bin\Debug\netcoreapp3.1\DepartmentalStore.Models.dll
+C:\Users\S S INFOTECH\source\repos\DepartmentalStore\DepartmentalStore.Domain\bin\Debug\netcoreapp3.1\DepartmentalStore.Models.pdb
+C:\Users\S S INFOTECH\source\repos\DepartmentalStore\DepartmentalStore.Domain\obj\Debug\netcoreapp3.1\DepartmentalStore.Models.csprojAssemblyReference.cache
+C:\Users\S S INFOTECH\source\repos\DepartmentalStore\DepartmentalStore.Domain\obj\Debug\netcoreapp3.1\DepartmentalStore.Models.AssemblyInfoInputs.cache
+C:\Users\S S INFOTECH\source\repos\DepartmentalStore\DepartmentalStore.Domain\obj\Debug\netcoreapp3.1\DepartmentalStore.Models.AssemblyInfo.cs
+C:\Users\S S INFOTECH\source\repos\DepartmentalStore\DepartmentalStore.Domain\obj\Debug\netcoreapp3.1\DepartmentalStore.Models.csproj.CoreCompileInputs.cache
+C:\Users\S S INFOTECH\source\repos\DepartmentalStore\DepartmentalStore.Domain\obj\Debug\netcoreapp3.1\DepartmentalStore.Models.dll
+C:\Users\S S INFOTECH\source\repos\DepartmentalStore\DepartmentalStore.Domain\obj\Debug\netcoreapp3.1\DepartmentalStore.Models.pdb
